@@ -1,0 +1,3 @@
+rootProject.name = 'delaycounter'
+
+include ':app'
